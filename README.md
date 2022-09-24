@@ -1,2 +1,2 @@
-# student-studyguide
-student study guide
+# prework-studyguide
+prework study guide
